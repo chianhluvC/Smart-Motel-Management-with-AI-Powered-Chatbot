@@ -23,7 +23,7 @@
 - **Database:** MySQL
 - **Authentication:** JWT
 - **Payment Integration:** VNPAY API
-- **Frontend:** Vue.js ([Frontend Repository](#))
+- **Frontend:** Vue.js ([Frontend Repository](https://github.com/NguyenVanTaiIT/vue-nhom8qlphongtro.git))
 
 ## Installation
 ### Backend Setup
